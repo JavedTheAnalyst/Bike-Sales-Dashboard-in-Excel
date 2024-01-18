@@ -6,4 +6,4 @@ The dashboard is prepared in a way easy to read and understand, with clear label
 
 This information can be used by bike retailers, wholesalers, manufacturers, and other stakeholders to make better decisions about future marketing strategies and grow their businesses.
 
-#dataanalyst #datavisualization #dataanalysis #excel hashtag#sql
+#dataanalyst #datavisualization #dataanalysis #excel #sql
